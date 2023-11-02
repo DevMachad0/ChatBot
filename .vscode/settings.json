@@ -1,0 +1,20 @@
+{
+    "files.autoSave": "afterDelay",
+    "workbench.colorTheme": "Dracula",
+    "workbench.editorAssociations": {
+        "*.xlsx": "default",
+        "*.db": "default",
+        "*.pyc": "default"
+    },
+    "explorer.confirmDelete": false,
+    "[python]": {
+        "editor.formatOnType": true
+    },
+    "java.debug.settings.console": "internalConsole",
+    "redhat.telemetry.enabled": true,
+    "workbench.iconTheme": "material-icon-theme",
+    "chatgpt.lang": "en",
+    "settingsSync.ignoredExtensions": [
+        
+    ]
+}
